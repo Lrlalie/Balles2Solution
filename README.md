@@ -3,11 +3,11 @@
 ## DESCRIPTION
 
 * Application qui génère un mouvement perpétuel que l'on peut appliquer à un objet ou plusieurs.
-* Ici 2 balles de tennis.
+* Dans notre exemple : 2 balles.
 
 ## INSTALLATION
-<br/>
-*Clone this repository
+
+* Clone this repository
 * git clone  https://github.com/Lrlalie/Balles2Solution
 
 ## DEMO (gif)
@@ -15,5 +15,5 @@
 ![logo](BALLES.gif)
 
 ## COPYRIGHT
-<br/>
+
 * This project is under the MIT LICENSE
