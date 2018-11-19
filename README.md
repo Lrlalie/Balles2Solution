@@ -1,11 +1,11 @@
 # Balles2Solution
 
-# # DESCRIPTION
+## DESCRIPTION
 <br/>
 *Application qui génère un mouvement perpétuel que l'on peut appliquer à un objet ou plusieurs.
 *Ici 2 balles de tennis.
 
-**INSTALLATION**
+## ** INSTALLATION **
 <br/>
 *Clone this repository
 *git clone  https://github.com/Lrlalie/Balles2Solution
