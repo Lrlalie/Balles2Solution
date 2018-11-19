@@ -2,18 +2,18 @@
 
 ## DESCRIPTION
 <br/>
-*Application qui génère un mouvement perpétuel que l'on peut appliquer à un objet ou plusieurs.
-*Ici 2 balles de tennis.
+* Application qui génère un mouvement perpétuel que l'on peut appliquer à un objet ou plusieurs.
+* Ici 2 balles de tennis.
 
-## ** INSTALLATION **
+## INSTALLATION
 <br/>
-*Clone this repository
-*git clone  https://github.com/Lrlalie/Balles2Solution
+* Clone this repository
+* git clone  https://github.com/Lrlalie/Balles2Solution
 
-**DEMO (gif)**
+## DEMO (gif)
 <br/>
 ![logo](BALLES.gif)
 
-**COPYRIGHT**
+## COPYRIGHT
 <br/>
-*This project is under the MIT LICENSE
+* This project is under the MIT LICENSE
