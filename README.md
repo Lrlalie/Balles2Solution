@@ -1,6 +1,6 @@
 # Balles2Solution
 
-##<strong>DESCRIPTION</strong>
+**DESCRIPTION**
 <br/>
 *Application qui génère un mouvement perpétuel que l'on peut appliquer à un objet ou plusieurs.
 *Ici 2 balles de tennis.
