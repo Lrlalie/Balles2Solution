@@ -11,7 +11,7 @@
 * git clone  https://github.com/Lrlalie/Balles2Solution
 
 ## DEMO (gif)
-<br/>
+
 ![logo](BALLES.gif)
 
 ## COPYRIGHT
